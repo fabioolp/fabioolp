@@ -1,13 +1,9 @@
-<h1 align="left">Fábio Oliveira</h1>
-<h3 align="left">Ciência de Dados | Machine Learning</h3>
 
-****
+Sou engenheiro com 10 anos de experiência em automação e instrumentação e nos últimos 2 anos atuo na área de Ciência de Dados. 
+Em minhas experiências profissionais desenvolvi habilidades analíticas, de resolução de problemas e trabalho em equipe. 
+Para isso, as principais ferramentas que utilizo são: Python, SQL, estatística e modelagem.
+Tenho interesse por Ciência de Dados e Machine Learning aplicados à problemas de engenharia, finanças e gestão.
 
-<h3 align="left">Conecte comigo em:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fabioolp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fabioolp/" height="30" width="40" /></a>
-<a href="https://kaggle.com/fabioolp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fabioolp" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
