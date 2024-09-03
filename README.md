@@ -1,15 +1,25 @@
+### 👋 Olá! Eu sou Fábio
 
-Sou engenheiro com 10 anos de experiência em automação e instrumentação e nos últimos 2 anos atuo na área de Ciência de Dados. 
-Em minhas experiências profissionais desenvolvi habilidades analíticas, de resolução de problemas e trabalho em equipe. 
-Para isso, as principais ferramentas que utilizo são: Python, SQL, estatística e modelagem.
-Tenho interesse por Ciência de Dados e Machine Learning aplicados à problemas de engenharia, finanças e gestão.
+Sou um entusiasta de **Ciência de Dados** com experiência em **Machine Learning** e **Otimização Computacional**. Meu objetivo é transformar dados em insights e desenvolver soluções que resolvam problemas de forma eficiente.
 
+#### 🚀 Áreas de Atuação
+- **Machine Learning**: Desenvolvimento e implementação de modelos preditivos, desde a exploração inicial dos dados até a implantação em produção.
+- **Otimização Combinatória**: Aplicação de técnicas de otimização para resolver problemas de roteamento, alocação e programação, utilizando métodos exatos e heurísticos.
+- **Análise de Dados**: Extração, limpeza e análise de dados para gerar insights e embasar a tomada de decisões.
+- **Modelagem Matemática**: Formulação de problemas em modelos matemáticos e sua resolução utilizando bibliotecas como `Python-Mip` e `Gurobi`.
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-</p>
+#### 📂 Projetos Destacados
+- **[Projeto de Otimização de Roteamento de Veículos](#)**: Desenvolvimento de um modelo para otimizar rotas de entrega utilizando técnicas de Programação Linear e métodos heurísticos.
+- **[Projetos aplicados ao Ciclo de vida de clientes](#)**: Criação de modelos de classificação aplicados à Customer Lifecycle, como **Detecção de fraude**, **Predição de churn** e **Risco de crédito**.
+- **[Análise de Séries Temporais](#)**: Previsão de demandas e tendências utilizando modelos ARIMA.
+
+#### 💡 Metodologias e Ferramentas
+- **Python**: Pandas, NumPy, SciPy, scikit-learn, Kedro, TensorFlow, PyTorch
+- **Otimização**: Mip, Gurobi, CBC, OR-Tools
+- **Visualização de Dados**: Matplotlib, Seaborn, Plotly
+- **Gestão de Versionamento**: Git, GitHub, GitLab
+- **Ambientes de Desenvolvimento**: Jupyter Notebooks, VSCode
+
+#### 🌍 Conecte-se Comigo
+- **LinkedIn**: [https://www.linkedin.com/in/fabioolp/](#)
+- **Email**: [fabio.olp@gmail.com](mailto:fabio.olp@gmail.com)
