@@ -38,5 +38,5 @@ O trabalho envolve a modelagem de problemas de **Periodic Capacitated Arc Routin
 
 ## 🌍 Conecte-se Comigo
 
-**LinkedIn:** https://www.linkedin.com/in/fabioolp/
-**Email:** [fabio.olp@gmail.com](mailto:fabio.olp@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/fabioolp/
+- **Email:** [fabio.olp@gmail.com](mailto:fabio.olp@gmail.com)
